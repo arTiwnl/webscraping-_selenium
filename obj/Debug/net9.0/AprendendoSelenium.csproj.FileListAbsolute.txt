@@ -19,3 +19,4 @@ F:\Projects\AprendendoSelenium\AprendendoSelenium\obj\Debug\net9.0\refint\Aprend
 F:\Projects\AprendendoSelenium\AprendendoSelenium\obj\Debug\net9.0\AprendendoSelenium.pdb
 F:\Projects\AprendendoSelenium\AprendendoSelenium\obj\Debug\net9.0\AprendendoSelenium.genruntimeconfig.cache
 F:\Projects\AprendendoSelenium\AprendendoSelenium\obj\Debug\net9.0\ref\AprendendoSelenium.dll
+F:\Projects\AprendendoSelenium\AprendendoSelenium\obj\Debug\net9.0\AprendendoSelenium.sourcelink.json
